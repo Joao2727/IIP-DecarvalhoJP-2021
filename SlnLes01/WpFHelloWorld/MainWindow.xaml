@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpFHelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpFHelloWorld"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="169.496" Width="810.743">
+    <Grid Margin="0,0,11,278">
+        <Label Content="Hello World !" HorizontalAlignment="Left" Height="42" Margin="99,43,0,-85" VerticalAlignment="Top" Width="168" FontSize="18"/>
+
+    </Grid>
+</Window>
