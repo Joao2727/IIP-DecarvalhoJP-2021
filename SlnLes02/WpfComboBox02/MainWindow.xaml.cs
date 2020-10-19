@@ -24,5 +24,11 @@ namespace WpfComboBox02
         {
             InitializeComponent();
         }
+
+        private void Cmbox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            ComboBoxItem selectedItem =(ComboBoxItem) Cmbox1.SelectedItem;
+            LblMessage.Content = "geselecteerd : " + selectedItem.Content;
+        }
     }
 }

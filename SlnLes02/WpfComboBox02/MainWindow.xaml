@@ -7,9 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="267.374" Width="702.122">
     <Grid Background="#FFFBA2A2" Margin="0,0,-5,0">
-        <ComboBox x:Name="Cmbo1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="35,146,0,0" SelectionChanged="cmbo_SelectionChanged"/>
-        <ComboBoxItem Content="Belgie" HorizontalAlignment="Left" Width="118"/>
-        <Label Content="geselecteerd : " HorizontalAlignment="Left" Margin="38,82,0,0" VerticalAlignment="Top" Width="263"/>
+        <ComboBox x:Name="Cmbox1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="35,146,0,0" SelectionChanged="Cmbox1_SelectionChanged">
+            <ComboBoxItem Content="België" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Frankrijk" HorizontalAlignment="Left" Width="118"/>
+            <ComboBoxItem Content="Spanje" HorizontalAlignment="Left" Width="118"/>
+        </ComboBox>
+        <Label x:Name="LblMessage" Content="..........." HorizontalAlignment="Left" Margin="38,82,0,0" VerticalAlignment="Top" Width="263" FontSize="17"/>
 
     </Grid>
 </Window>
