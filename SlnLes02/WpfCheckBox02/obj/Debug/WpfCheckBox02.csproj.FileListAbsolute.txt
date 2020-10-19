@@ -1,0 +1,15 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\bin\Debug\WpfCheckBox02.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\bin\Debug\WpfCheckBox02.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\bin\Debug\WpfCheckBox02.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02.csprojAssemblyReference.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\MainWindow.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\App.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02_MarkupCompile.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02_MarkupCompile.lref
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\MainWindow.baml
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02.g.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02.Properties.Resources.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02.csproj.GenerateResource.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfCheckBox02\obj\Debug\WpfCheckBox02.pdb
