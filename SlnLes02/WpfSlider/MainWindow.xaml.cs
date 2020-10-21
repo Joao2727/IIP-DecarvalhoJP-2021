@@ -29,8 +29,8 @@ namespace WpfSlider
 
         private void SldVolume_ValueChanged(object sender, RoutedPropertyChangedEventArgs<double> e)
         {
-            double getal = SldVolume.Value;
-            LblVolume.Content = "Volume :" + getal;
+            double getal = SldVolume.Value; // value gebruiken we voor de slider.
+            LblVolume.Content = "Volume : " + getal; // Volume is de tekst die we gebruiken op de label, + is de getal die word gegeven wanneer we met de slider bewegen.
         }
     }
 }
