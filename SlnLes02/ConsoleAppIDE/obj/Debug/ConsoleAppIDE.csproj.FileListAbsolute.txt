@@ -1,7 +1,6 @@
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAppIDE\bin\Debug\ConsoleAppIDE.exe.config
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAppIDE\bin\Debug\ConsoleAppIDE.exe
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAppIDE\bin\Debug\ConsoleAppIDE.pdb
-C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAppIDE\obj\Debug\ConsoleAppIDE.csprojAssemblyReference.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAppIDE\obj\Debug\ConsoleAppIDE.csproj.CoreCompileInputs.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAppIDE\obj\Debug\ConsoleAppIDE.exe
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAppIDE\obj\Debug\ConsoleAppIDE.pdb

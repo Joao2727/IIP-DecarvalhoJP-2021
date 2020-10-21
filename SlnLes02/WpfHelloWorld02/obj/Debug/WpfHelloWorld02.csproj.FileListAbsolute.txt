@@ -1,7 +1,6 @@
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld02\bin\Debug\WpfHelloWorld02.exe.config
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld02\bin\Debug\WpfHelloWorld02.exe
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld02\bin\Debug\WpfHelloWorld02.pdb
-C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld02\obj\Debug\WpfHelloWorld02.csprojAssemblyReference.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld02\obj\Debug\MainWindow.g.cs
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld02\obj\Debug\App.g.cs
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld02\obj\Debug\WpfHelloWorld02_MarkupCompile.cache

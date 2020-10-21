@@ -1,0 +1,6 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAsciiArt\bin\Debug\ConsoleAsciiArt.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAsciiArt\bin\Debug\ConsoleAsciiArt.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAsciiArt\bin\Debug\ConsoleAsciiArt.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAsciiArt\obj\Debug\ConsoleAsciiArt.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAsciiArt\obj\Debug\ConsoleAsciiArt.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleAsciiArt\obj\Debug\ConsoleAsciiArt.pdb

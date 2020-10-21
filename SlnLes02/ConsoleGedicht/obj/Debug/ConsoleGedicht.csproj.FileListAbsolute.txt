@@ -1,0 +1,6 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGedicht\bin\Debug\ConsoleGedicht.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGedicht\bin\Debug\ConsoleGedicht.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGedicht\bin\Debug\ConsoleGedicht.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGedicht\obj\Debug\ConsoleGedicht.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGedicht\obj\Debug\ConsoleGedicht.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGedicht\obj\Debug\ConsoleGedicht.pdb

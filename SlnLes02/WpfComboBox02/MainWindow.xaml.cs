@@ -23,6 +23,7 @@ namespace WpfComboBox02
         public MainWindow()
         {
             InitializeComponent();
+            Cmbox1.SelectedIndex = 1;
         }
 
         private void Cmbox1_SelectionChanged(object sender, SelectionChangedEventArgs e)

@@ -1,0 +1,17 @@
+﻿<Window x:Class="WpfHelloWorld01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfHelloWorld01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="317.507" Width="808.355">
+    <Grid Margin="0,0,-10,1" Background="#FF956293">
+        <Button Content="Button" HorizontalAlignment="Left" Margin="468,133,0,0" VerticalAlignment="Top" Width="101" Height="27"/>
+        <Button x:Name="BtnOK" Content="OK" HorizontalAlignment="Left" Margin="467,133,0,0" VerticalAlignment="Top" Width="101" Height="27" Click="BtnOK_Click"/>
+        <Button x:Name="BtnHerstel" Content="HERSTEL" HorizontalAlignment="Left" Margin="585,133,0,0" VerticalAlignment="Top" Width="101" Height="27" Click="BtnHerstel_Click"/>
+        <TextBox x:Name="TxtBxNaam" HorizontalAlignment="Left" Height="25" Margin="83,134,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="373"/>
+        <Label x:Name="LblText" Content="Hallo, hoe is je naam ?" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="83,87,0,0" Width="371" Height="32"/>
+
+    </Grid>
+</Window>

@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="232.759" Width="749.867" Background="#FFF73434">
     <Grid Margin="0,0,0,1">
-        <Label x:Name="LblMessage" Content="....." HorizontalAlignment="Left" Margin="102,64,0,0" VerticalAlignment="Top" Width="321" FontWeight="Bold"/>
+        <Label x:Name="LblMessage" Content="....." HorizontalAlignment="Left" Margin="102,64,0,0" VerticalAlignment="Top" Width="321" FontWeight="Bold" />
         <Button x:Name="BtnZeg" Content="Zeg iets" HorizontalAlignment="Left" Margin="411,125,0,0" VerticalAlignment="Top" Width="107" Height="38" Click="BtnZeg_Click"/>
 
     </Grid>

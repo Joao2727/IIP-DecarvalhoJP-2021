@@ -1,0 +1,6 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGreenHouseRestaurant\bin\Debug\ConsoleGreenHouseRestaurant.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGreenHouseRestaurant\bin\Debug\ConsoleGreenHouseRestaurant.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGreenHouseRestaurant\bin\Debug\ConsoleGreenHouseRestaurant.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGreenHouseRestaurant\obj\Debug\ConsoleGreenHouseRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGreenHouseRestaurant\obj\Debug\ConsoleGreenHouseRestaurant.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\ConsoleGreenHouseRestaurant\obj\Debug\ConsoleGreenHouseRestaurant.pdb

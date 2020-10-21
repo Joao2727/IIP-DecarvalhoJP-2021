@@ -1,4 +1,3 @@
-C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfComboBox02\obj\Debug\WpfComboBox02.csprojAssemblyReference.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfComboBox02\obj\Debug\MainWindow.g.cs
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfComboBox02\obj\Debug\App.g.cs
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfComboBox02\obj\Debug\WpfComboBox02_MarkupCompile.cache
