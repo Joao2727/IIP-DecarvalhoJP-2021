@@ -1,0 +1,9 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\bin\Debug\ConsoleMusicPlayer.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\bin\Debug\ConsoleMusicPlayer.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\bin\Debug\ConsoleMusicPlayer.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\obj\Debug\ConsoleMusicPlayer.csprojAssemblyReference.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\obj\Debug\ConsoleMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\obj\Debug\ConsoleMusicPlayer.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\obj\Debug\ConsoleMusicPlayer.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Project\ConsoleMusicPlayer\obj\Debug\ConsoleMusicPlayer.csproj.ResolveComReference.cache
