@@ -1,0 +1,15 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\bin\Debug\WpfDatumkiezer.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\bin\Debug\WpfDatumkiezer.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\bin\Debug\WpfDatumkiezer.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.csprojAssemblyReference.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\MainWindow.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\App.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer_MarkupCompile.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer_MarkupCompile.lref
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\MainWindow.baml
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.g.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.Properties.Resources.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.csproj.GenerateResource.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfDatumkiezer\obj\Debug\WpfDatumkiezer.pdb
