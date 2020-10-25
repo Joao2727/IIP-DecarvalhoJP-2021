@@ -15,7 +15,8 @@ namespace ConsoleKarakter
                 
                 Console.Write(" Geef een kleine letter : ");
                 string grote = Convert.ToString(Console.ReadLine());
-            Console.WriteLine("");
+                Console.WriteLine("");
+                Console.WriteLine("");
 
 
 
