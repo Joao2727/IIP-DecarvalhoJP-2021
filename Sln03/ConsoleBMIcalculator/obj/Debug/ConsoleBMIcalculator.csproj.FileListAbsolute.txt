@@ -1,0 +1,6 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleBMIcalculator\bin\Debug\ConsoleBMIcalculator.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleBMIcalculator\bin\Debug\ConsoleBMIcalculator.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleBMIcalculator\bin\Debug\ConsoleBMIcalculator.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleBMIcalculator\obj\Debug\ConsoleBMIcalculator.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleBMIcalculator\obj\Debug\ConsoleBMIcalculator.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleBMIcalculator\obj\Debug\ConsoleBMIcalculator.pdb

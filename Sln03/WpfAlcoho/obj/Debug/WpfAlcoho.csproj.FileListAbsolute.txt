@@ -1,0 +1,15 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\bin\Debug\WpfAlcoho.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\bin\Debug\WpfAlcoho.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\bin\Debug\WpfAlcoho.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho.csprojAssemblyReference.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\MainWindow.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\App.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho_MarkupCompile.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho_MarkupCompile.lref
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\MainWindow.baml
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho.g.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho.Properties.Resources.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho.csproj.GenerateResource.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\WpfAlcoho\obj\Debug\WpfAlcoho.pdb

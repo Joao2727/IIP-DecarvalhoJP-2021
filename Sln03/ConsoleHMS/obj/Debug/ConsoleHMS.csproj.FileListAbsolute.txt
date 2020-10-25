@@ -1,0 +1,6 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleHMS\bin\Debug\ConsoleHMS.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleHMS\bin\Debug\ConsoleHMS.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleHMS\bin\Debug\ConsoleHMS.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleHMS\obj\Debug\ConsoleHMS.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleHMS\obj\Debug\ConsoleHMS.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleHMS\obj\Debug\ConsoleHMS.pdb

@@ -1,0 +1,7 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleKarakter\bin\Debug\ConsoleKarakter.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleKarakter\bin\Debug\ConsoleKarakter.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleKarakter\bin\Debug\ConsoleKarakter.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleKarakter\obj\Debug\ConsoleKarakter.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleKarakter\obj\Debug\ConsoleKarakter.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleKarakter\obj\Debug\ConsoleKarakter.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\Sln03\ConsoleKarakter\obj\Debug\ConsoleKarakter.csprojAssemblyReference.cache
