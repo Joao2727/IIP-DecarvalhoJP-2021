@@ -14,16 +14,16 @@ namespace ConsoleKarakter
             
                 
                 Console.Write(" Geef een kleine letter : ");
-                string grote = Convert.ToString(Console.ReadLine());
+                char grote = Convert.ToChar(Console.ReadLine());
                 Console.WriteLine("");
                 Console.WriteLine("");
 
 
 
-            Console.WriteLine($"Het nummer is {grote}");
+            //Console.WriteLine($"Het nummer is {grote}");
                 Console.WriteLine($" De hoofdletter is { grote} ");
                 Console.WriteLine($"De vorige letter is {grote}");
-                Console.WriteLine($" De volgende letter is {grote + ""} ");
+                Console.WriteLine($" De volgende letter is {grote}");
                 Console.ReadKey();
             }
         }

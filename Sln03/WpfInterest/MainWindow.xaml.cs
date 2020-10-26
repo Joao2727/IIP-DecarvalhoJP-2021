@@ -34,10 +34,10 @@ namespace WpfInterest
 
         private void Btnberkenen_Click(object sender, RoutedEventArgs e)
         {
-            float getal = 12;
+           
             float eurogetal = Convert.ToInt32(TxtBEuro.Text);
             float procentgetal = Convert.ToInt32(TxtBProcent.Text);
-            float bedrag  = (eurogetal * procentgetal * 100 ) / (100 * getal * 12) ;
+            float bedrag  = (eurogetal * procentgetal * 100 ) / (100 * 12) ;
             Lbluitkomst.Content = "De waarde na " + Lbl6.Content + " € " + Math.Round(bedrag, 2);
         }
 
