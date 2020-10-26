@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Date Picker" Height="363.559" Width="581.356">
     <Grid Margin="0,0,5,3">
-        <DatePicker x:Name="Datakiezer" HorizontalAlignment="Left" Margin="180,90,0,0" VerticalAlignment="Top" Width="187" SelectedDateChanged="DatePicker1_SelectionChanged"  SelectedDateFormat="Long" IsTodayHighlighted="True" />
+        <DatePicker x:Name="Dateiezer" HorizontalAlignment="Left" Margin="180,90,0,0" VerticalAlignment="Top" Width="187" SelectedDateChanged="DatePicker1_SelectionChanged"  SelectedDateFormat="Long" IsTodayHighlighted="True"  />
         <Label x:Name="LblSelection" Content="" HorizontalAlignment="Left" Margin="106,167,0,0" VerticalAlignment="Top" Width="323"/>
 
     </Grid>
