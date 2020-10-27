@@ -27,18 +27,21 @@ namespace WpfPizza
 
         private void Rb1_Checked(object sender, RoutedEventArgs e)
         {
+            //PIZZA 1 + IMAGE
             TxtBlkMenu.Text = ("Tomatensaus, mozzarella, spinazie, verse tomaten, champignons, paprika, rode uien, olijven & oregano ");
             ImgBox.Source = new BitmapImage(new Uri("images/P1.png", UriKind.Relative));
         }
 
         private void Rb2_Checked(object sender, RoutedEventArgs e)
         {
+            //PIZZA 2 + IMAGE
             TxtBlkMenu.Text = ("Tomatensaus, mozzarella, rode uien, paprika, kip & barbecuesaus");
             ImgBox.Source = new BitmapImage(new Uri("images/P2.png", UriKind.Relative));
         }
 
         private void Rb3_Checked(object sender, RoutedEventArgs e)
         {
+            //PIZZA 3 + IMAGE
             TxtBlkMenu.Text = ("Crème fraiche, mozzarella, gorgonzola, emmentaler en geitenkaas");
             ImgBox.Source = new BitmapImage(new Uri("images/P3.png", UriKind.Relative));
         }

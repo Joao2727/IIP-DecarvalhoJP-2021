@@ -10,7 +10,7 @@ namespace ConsoleAsciiArt
     {
         static void Main(string[] args)
         {
-
+            //ASCII CODE
             Console.WriteLine("      ##           ##     ");
             Console.WriteLine("        #          #");
             Console.WriteLine("      ###############   ");

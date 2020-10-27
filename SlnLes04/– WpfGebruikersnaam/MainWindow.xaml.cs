@@ -27,10 +27,12 @@ namespace __WpfGebruikersnaam
 
         private void TxtBxNaam_TextChanged(object sender, TextChangedEventArgs e)
         {
-            string spaties = " ";
+            //string spaties = " ";
             //string text = "";
-            string cijfer = "1";
-            float cijfers = Convert.ToInt32(cijfer);
+            //string cijfer = ("1");
+            Random rnd = new Random();
+            int getal;
+            getal = rnd.Next(1, 10);
 
 
             //TxtBxNaam.Background = new SolidColorBrush(Colors.LightGreen);
@@ -50,10 +52,11 @@ namespace __WpfGebruikersnaam
                 TxtBxNaam.Background = Brushes.Red;
                 LblError.Content = " mag geen spaties bevatten";
             }
-            if (TxtBxNaam.Text.Contains(cijfer))
+            int cijf = Convert.ToInt32(TxtBxNaam.Text);
+            if (cijf == getal)
             {
                 TxtBxNaam.Background = Brushes.Red;
-                LblError.Content = " mag geen cijfers";
+                LblError.Content = " mag geen cijfers gebruiken";
             }
             else if (TxtBxNaam.Text == "")
             {

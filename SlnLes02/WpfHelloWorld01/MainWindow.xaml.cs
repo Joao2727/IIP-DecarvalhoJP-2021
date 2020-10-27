@@ -25,12 +25,16 @@ namespace WpfHelloWorld01
             InitializeComponent();
         }
 
+
+        //OK BUTTON
         private void BtnOK_Click(object sender, RoutedEventArgs e)
         {
-            LblText.Content = " Hallo " + TxtBxNaam.Text + " Fijn dat je er bent.";
+            LblText.Content = " Hallo " + TxtBxNaam.Text + " fijn dat je er bent.";
 
         }
 
+
+        //HERSTEL BUTTON
         private void BtnHerstel_Click(object sender, RoutedEventArgs e)
         {
             LblText.Content =" Hallo, hoe is je naam ? ";

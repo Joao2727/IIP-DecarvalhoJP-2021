@@ -44,9 +44,10 @@ namespace WpfChat
 
         private void TxtBBericht_TextChanged(object sender, TextChangedEventArgs e)
         {
+            //VERVANG WOORDEN
             String a = "a";
 
-            a = a.Replace("a", "hamburgers").Replace("ahah", "ahah");
+            a = a.Replace("shit", "fuck").Replace("****","****");
             Console.WriteLine(a);
         }
     }

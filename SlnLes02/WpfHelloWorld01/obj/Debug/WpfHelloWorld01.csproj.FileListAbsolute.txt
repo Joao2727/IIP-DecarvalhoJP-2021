@@ -12,3 +12,4 @@ C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\Wp
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld01\obj\Debug\WpfHelloWorld01.csproj.CoreCompileInputs.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld01\obj\Debug\WpfHelloWorld01.exe
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld01\obj\Debug\WpfHelloWorld01.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfHelloWorld01\obj\Debug\WpfHelloWorld01.csprojAssemblyReference.cache

@@ -12,3 +12,4 @@ C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\Wp
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfChat\obj\Debug\WpfChat.csproj.CoreCompileInputs.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfChat\obj\Debug\WpfChat.exe
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfChat\obj\Debug\WpfChat.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes02\WpfChat\obj\Debug\WpfChat.csprojAssemblyReference.cache
