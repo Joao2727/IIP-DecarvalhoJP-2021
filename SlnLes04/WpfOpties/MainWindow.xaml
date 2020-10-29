@@ -9,10 +9,10 @@
     <Grid Margin="0,0,2,-1" Background="#FFFDB3DB">
         <Label x:Name="Lbl1" Content="Waar heb je ons leren kennen ?" HorizontalAlignment="Left" Margin="58,25,0,0" VerticalAlignment="Top" Width="288" Height="36" FontSize="18"/>
         <Label x:Name="Lbl2" Content="duid minstens één optie aan" HorizontalAlignment="Left" Margin="62,67,0,0" VerticalAlignment="Top" Width="238" FontStyle="Italic"/>
-        <CheckBox x:Name="ChckGoogle" Content="gevonden via Google" HorizontalAlignment="Left" Margin="66,123,0,0" VerticalAlignment="Top" Height="18" Width="247" Checked="button_check"/>
-        <CheckBox x:Name="ChckKennis" Content="via een keenis / vriend" HorizontalAlignment="Left" Margin="66,150,0,0" VerticalAlignment="Top" Height="18" Width="245" Checked="button_check"/>
-        <CheckBox x:Name="ChckAndere" Content="andere, namelijk" HorizontalAlignment="Left" Margin="66,176,0,0" VerticalAlignment="Top" Height="18" Width="240" Checked="button_check"/>
+        <CheckBox x:Name="ChckGoogle" Content="gevonden via Google" HorizontalAlignment="Left" Margin="66,123,0,0" VerticalAlignment="Top" Height="18" Width="247" Checked="button_check" Unchecked="button_check"/>
+        <CheckBox x:Name="ChckKennis" Content="via een keenis / vriend" HorizontalAlignment="Left" Margin="66,150,0,0" VerticalAlignment="Top" Height="18" Width="245" Checked="button_check" Unchecked="button_check"/>
+        <CheckBox x:Name="ChckAndere" Content="andere, namelijk" HorizontalAlignment="Left" Margin="66,176,0,0" VerticalAlignment="Top" Height="18" Width="240" Checked="button_check" Unchecked="button_check"/>
         <Image x:Name="imgcheck" HorizontalAlignment="Left" Height="68" Margin="328,8,0,0" VerticalAlignment="Top" Width="76" />
-
+        <TextBox x:Name="TxtBox1" HorizontalAlignment="Left" Height="23" Margin="83,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="287" Visibility="Hidden"/>
     </Grid>
 </Window>

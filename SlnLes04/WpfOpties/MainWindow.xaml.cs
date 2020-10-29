@@ -32,7 +32,16 @@ namespace WpfOpties
 
             if (ChckGoogle.IsChecked == true)
             {
-                Lbl1.Content = "ja, mee eens";
+                TxtBox1.Visibility = Visibility.Visible;
+            }
+            else
+            {
+                Lbl2.Content = "nee, niet mee eens";
+            }
+
+            if (ChckGoogle.IsChecked == true)
+            {
+                TxtBox1.Visibility = Visibility.Visible;
             }
             else
             {
@@ -41,6 +50,7 @@ namespace WpfOpties
 
         }
 
+      
     }
     }
 
