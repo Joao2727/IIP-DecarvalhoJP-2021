@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDatumkiezer", "WpfDatumk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "– WpfGebruikersnaam", "– WpfGebruikersnaam\– WpfGebruikersnaam.csproj", "{5D8210F7-CDE4-4A4E-8C77-C1DC4F414888}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOXO", "WpfOXO\WpfOXO.csproj", "{762AFB5D-D066-48E3-B3AD-C32D267104C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCalculatorTAG", "WpfCalculatorTAG\WpfCalculatorTAG.csproj", "{914D5988-3636-40C1-B915-A942CB524B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOpties", "WpfOpties\WpfOpties.csproj", "{A7C57FFD-E455-4C66-8F2F-2ED0F0FBF7A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,18 @@ Global
 		{5D8210F7-CDE4-4A4E-8C77-C1DC4F414888}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D8210F7-CDE4-4A4E-8C77-C1DC4F414888}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D8210F7-CDE4-4A4E-8C77-C1DC4F414888}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762AFB5D-D066-48E3-B3AD-C32D267104C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762AFB5D-D066-48E3-B3AD-C32D267104C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762AFB5D-D066-48E3-B3AD-C32D267104C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762AFB5D-D066-48E3-B3AD-C32D267104C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914D5988-3636-40C1-B915-A942CB524B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914D5988-3636-40C1-B915-A942CB524B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914D5988-3636-40C1-B915-A942CB524B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914D5988-3636-40C1-B915-A942CB524B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7C57FFD-E455-4C66-8F2F-2ED0F0FBF7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C57FFD-E455-4C66-8F2F-2ED0F0FBF7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C57FFD-E455-4C66-8F2F-2ED0F0FBF7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C57FFD-E455-4C66-8F2F-2ED0F0FBF7A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

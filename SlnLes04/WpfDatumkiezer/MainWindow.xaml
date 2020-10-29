@@ -8,8 +8,7 @@
         Title="Date Picker" Height="363.559" Width="581.356">
     <Grid Margin="0,0,5,3">
         <DatePicker x:Name="Datekiezer" HorizontalAlignment="Left" Margin="180,90,0,0" VerticalAlignment="Top" Width="187" SelectedDateChanged="DatePicker1_SelectionChanged"  SelectedDateFormat="Long" IsTodayHighlighted="True" />
-        <TextBlock x:Name="block1" Text="{Binding Text, ElementName=Datekiezer}" HorizontalAlignment="Left" Margin="267,141,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199"/>
-        <Label x:Name="lblText" Content="" HorizontalAlignment="Left" Margin="31,155,0,0" VerticalAlignment="Top" Width="247"/>
+        <Label x:Name="lblText" Content="" HorizontalAlignment="Left" Margin="151,170,0,0" VerticalAlignment="Top" Width="247"/>
 
     </Grid>
 </Window>

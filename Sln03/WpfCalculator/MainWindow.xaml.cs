@@ -104,11 +104,11 @@ namespace WpfCalculator
 
         private void BtnMaal_Click(object sender, RoutedEventArgs e)
         {
-            //BUTTON MAAL
-            double cijfer1 = Convert.ToDouble(LblResultaat.Content);
-            double cijfer2 = Convert.ToDouble(Lblformule.Content);
-            LblResultaat.Content = cijfer1 * cijfer2;
-            Lblformule.Content = "";
+                //BUTTON MAAL
+                double cijfer1 = Convert.ToDouble(LblResultaat.Content);
+                double cijfer2 = Convert.ToDouble(Lblformule.Content);
+                LblResultaat.Content = cijfer1 * cijfer2;
+                Lblformule.Content = "";
         }
 
         private void BtnCE_Click(object sender, RoutedEventArgs e)

@@ -29,13 +29,9 @@ namespace __WpfGebruikersnaam
         {
             //string spaties = " ";
             //string text = "";
-            //string cijfer = ("1");
-            Random rnd = new Random();
-            int getal;
-            getal = rnd.Next(1, 10);
-
-
-            //TxtBxNaam.Background = new SolidColorBrush(Colors.LightGreen);
+            string tekens = ("@");
+           
+            TxtBxNaam.Background = new SolidColorBrush(Colors.White);
 
             if (TxtBxNaam.Text == "")
             {
@@ -52,17 +48,25 @@ namespace __WpfGebruikersnaam
                 TxtBxNaam.Background = Brushes.Red;
                 LblError.Content = " mag geen spaties bevatten";
             }
-            int cijf = Convert.ToInt32(TxtBxNaam.Text);
-            if (cijf == getal)
+            else
             {
-                TxtBxNaam.Background = Brushes.Red;
-                LblError.Content = " mag geen cijfers gebruiken";
-            }
-            else if (TxtBxNaam.Text == "")
-            {
-                TxtBxNaam.Background = Brushes.White;
+                Background = Brushes.White;
                 LblError.Content = "";
             }
+
+            if (TxtBxNaam.Text.Contains(tekens))
+            {
+                TxtBxNaam.Background = Brushes.Red;
+                LblError.Content = " mag geen tekens bevatten";
+            }
+            else
+            {
+                Background = Brushes.White;
+                LblError.Content = "";
+            }
+
+
+
 
         }
     }

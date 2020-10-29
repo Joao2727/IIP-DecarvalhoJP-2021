@@ -1,0 +1,15 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\MainWindow.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\App.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG_MarkupCompile.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG_MarkupCompile.lref
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\bin\Debug\WpfCalculatorTAG.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\bin\Debug\WpfCalculatorTAG.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\bin\Debug\WpfCalculatorTAG.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG.csprojAssemblyReference.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\MainWindow.baml
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG.g.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG.Properties.Resources.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG.csproj.GenerateResource.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes04\WpfCalculatorTAG\obj\Debug\WpfCalculatorTAG.pdb

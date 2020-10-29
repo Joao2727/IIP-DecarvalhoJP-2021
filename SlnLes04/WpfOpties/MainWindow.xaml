@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfOpties.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfOpties"
+        mc:Ignorable="d"
+        Title="Opties" Height="400.424" Width="501.271">
+    <Grid Margin="0,0,2,-1" Background="#FFFDB3DB">
+        <Label x:Name="Lbl1" Content="Waar heb je ons leren kennen ?" HorizontalAlignment="Left" Margin="58,25,0,0" VerticalAlignment="Top" Width="288" Height="36" FontSize="18"/>
+        <Label x:Name="Lbl2" Content="duid minstens één optie aan" HorizontalAlignment="Left" Margin="62,67,0,0" VerticalAlignment="Top" Width="238" FontStyle="Italic"/>
+        <CheckBox x:Name="ChckGoogle" Content="gevonden via Google" HorizontalAlignment="Left" Margin="66,123,0,0" VerticalAlignment="Top" Height="18" Width="247" Checked="button_check"/>
+        <CheckBox x:Name="ChckKennis" Content="via een keenis / vriend" HorizontalAlignment="Left" Margin="66,150,0,0" VerticalAlignment="Top" Height="18" Width="245" Checked="button_check"/>
+        <CheckBox x:Name="ChckAndere" Content="andere, namelijk" HorizontalAlignment="Left" Margin="66,176,0,0" VerticalAlignment="Top" Height="18" Width="240" Checked="button_check"/>
+        <Image x:Name="imgcheck" HorizontalAlignment="Left" Height="68" Margin="328,8,0,0" VerticalAlignment="Top" Width="76" />
+
+    </Grid>
+</Window>

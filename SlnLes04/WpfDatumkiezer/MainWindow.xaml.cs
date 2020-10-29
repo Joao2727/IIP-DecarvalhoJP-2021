@@ -28,9 +28,10 @@ namespace WpfDatumkiezer
         private void DatePicker1_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
-            //lblText.Content = "je selecteerde" + Datekiezer.DisplayDate;
+            
 
-            lblText.Content = " je selecteerde " + block1.Text;
+            string datumvolop = Datekiezer != null ? Datekiezer.SelectedDate.Value.ToString("dd MMMM yyyy") : null;
+            lblText.Content = " je selecteerde " + datumvolop;
 
 
 
