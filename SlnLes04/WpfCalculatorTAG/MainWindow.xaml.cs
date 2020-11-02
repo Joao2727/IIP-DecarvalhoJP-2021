@@ -20,6 +20,8 @@ namespace WpfCalculatorTAG
     /// </summary>
     public partial class MainWindow : Window
     {
+       
+        
         public MainWindow()
         {
             InitializeComponent();
@@ -27,15 +29,14 @@ namespace WpfCalculatorTAG
 
         private void btn_Click(object sender, RoutedEventArgs e)
         {
+
             Button btn = (Button)sender;
-            int getal = Convert.ToInt32(btn.Tag);
-            getal.ToString();
-            btn.Tag = Convert.ToString(getal);
+
+           
+            
+
             Lblformule.Content = btn.Content;
-
-            
-            
-
+ 
 
         }
     }

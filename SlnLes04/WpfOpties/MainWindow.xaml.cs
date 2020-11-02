@@ -29,24 +29,39 @@ namespace WpfOpties
 
         private void button_check(object sender, RoutedEventArgs e)
         {
-
+            //CHECKBOX GOOGLE
             if (ChckGoogle.IsChecked == true)
             {
-                TxtBox1.Visibility = Visibility.Visible;
+
+                imgcheck.Visibility = Visibility.Visible;
+                imgcheck.Source = new BitmapImage(new Uri("img/check.png", UriKind.Relative));
             }
             else
             {
-                Lbl2.Content = "nee, niet mee eens";
+                imgcheck.Visibility = Visibility.Hidden;
+
             }
 
-            if (ChckGoogle.IsChecked == true)
+            //CHECKBOX KENNIS
+            if (ChckKennis.IsChecked == true) {
+                imgcheck.Visibility = Visibility.Visible;
+                imgcheck.Source = new BitmapImage(new Uri("img/check.png", UriKind.Relative));
+            }
+
+            //CHECKBOX ANDERE
+            if (ChckAndere.IsChecked == true)
             {
+
                 TxtBox1.Visibility = Visibility.Visible;
+
+
             }
             else
             {
-                Lbl2.Content = "nee, niet mee eens";
+                TxtBox1.Visibility = Visibility.Hidden;
             }
+
+            
 
         }
 

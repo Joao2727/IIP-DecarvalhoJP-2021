@@ -7,16 +7,17 @@
         mc:Ignorable="d"
         Title="OXO" Height="518.643" Width="445.338">
     <Grid Margin="6,0,-3,2">
-        <Button x:Name="Btn1" Content="" HorizontalAlignment="Left" Height="117" Margin="10,43,0,0" VerticalAlignment="Top" Width="130" Click="Btn1_Click" FontSize="50" FontWeight="Bold"/>
-        <Button x:Name="Btn2" Content="" HorizontalAlignment="Left" Height="117" Margin="147,43,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"/>
-        <Button x:Name="Btn3" Content="" HorizontalAlignment="Left" Height="117" Margin="285,43,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"/>
-        <Button x:Name="Btn4" Content="" HorizontalAlignment="Left" Height="117" Margin="10,169,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"/>
-        <Button x:Name="Btn5" Content="" HorizontalAlignment="Left" Height="117" Margin="147,169,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"/>
-        <Button x:Name="Btn6" Content="" HorizontalAlignment="Left" Height="117" Margin="285,169,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"/>
-        <Button x:Name="Btnè" Content="" HorizontalAlignment="Left" Height="117" Margin="10,295,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"/>
-        <Button x:Name="Btn8" Content="" HorizontalAlignment="Left" Height="117" Margin="147,295,0,0" VerticalAlignment="Top" Width="130"/>
-        <Button x:Name="Btn9" Content="" HorizontalAlignment="Left" Height="117" Margin="285,295,0,0" VerticalAlignment="Top" Width="130"/>
-        <Label x:Name="LblWin" Content="" HorizontalAlignment="Left" Margin="289,425,0,0" VerticalAlignment="Top" Width="123"/>
+        <Button x:Name="Btn1" Content="" HorizontalAlignment="Left" Height="117" Margin="10,43,0,0" VerticalAlignment="Top" Width="130"  FontSize="50" FontWeight="Bold" Click="Btn_Click"/>
+        <Button x:Name="Btn2" Content="" HorizontalAlignment="Left" Height="117" Margin="147,43,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold" Click="Btn_Click"/>
+        <Button x:Name="Btn3" Content="" HorizontalAlignment="Left" Height="117" Margin="285,43,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold" Click="Btn_Click"/>
+        <Button x:Name="Btn4" Content="" HorizontalAlignment="Left" Height="117" Margin="10,169,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold" Click="Btn_Click"/>
+        <Button x:Name="Btn5" Content="" HorizontalAlignment="Left" Height="117" Margin="147,169,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold" Click="Btn_Click"/>
+        <Button x:Name="Btn6" Content="" HorizontalAlignment="Left" Height="117" Margin="285,169,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold" Click="Btn_Click"/>
+        <Button x:Name="Btn7" Content="" HorizontalAlignment="Left" Height="117" Margin="10,295,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"  Click="Btn_Click"/>
+        <Button x:Name="Btn8" Content="" HorizontalAlignment="Left" Height="117" Margin="147,295,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold" Click="Btn_Click"/>
+        <Button x:Name="Btn9" Content="" HorizontalAlignment="Left" Height="117" Margin="285,295,0,0" VerticalAlignment="Top" Width="130" FontSize="50" FontWeight="Bold"  Click="Btn_Click"/>
+        <Label x:Name="LblWin" Content="" HorizontalAlignment="Left" Margin="272,425,0,0" VerticalAlignment="Top" Width="138" />
+        <Button x:Name="BtnRestart" Content="RESTART" HorizontalAlignment="Left" Margin="17,438,0,0" VerticalAlignment="Top" Width="97" Height="32" Click="Btn_Click"/>
 
     </Grid>
 </Window>
