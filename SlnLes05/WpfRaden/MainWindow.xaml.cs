@@ -20,19 +20,57 @@ namespace WpfRaden
     /// </summary>
     public partial class MainWindow : Window
     {
+        int getal;
+        int pogingenOver = 3;
+
+
         public MainWindow()
         {
             InitializeComponent();
-            int cijfer;
-            int pogingen = 3;
             Random rnd = new Random();
-            cijfer = rnd.Next(1, 10);
-            Lblpogingen.Content = " geen bod geplaats momenteel.";
+            getal = rnd.Next(1, 10);
+            Lblpogingen.Content = " Raad het getal";
         }
 
         private void BtnControleer_Click(object sender, RoutedEventArgs e)
         {
+            //BUTTON CONTROLEER
+            pogingenOver--;
+            int gok = Convert.ToInt32(TxtBoxRaden.Text);
+            if (gok == getal)
+            {
+                Lblpogingen.Content = "Gewonnen!";
+                BtnControleer.IsEnabled = false;
+            }
+             else if (gok > getal)
+            {
+                Lblpogingen.Content = $" je gok is te Hoog, Je hebt nog {pogingenOver} pogingen over";
+                if (pogingenOver == 0)
+                {
+                    BtnControleer.IsEnabled = false;
+                }
+
+            }
+            else if (gok < getal)
+            {
+                Lblpogingen.Content = $" je gok is te Laag, Je hebt nog {pogingenOver} pogingen over";
+                if (pogingenOver == 0)
+                {
+                    Lblpogingen.Content = " Verloren ";
+                }
+
+            }
+        }
+
+        private void BtnRestart_Click(object sender, RoutedEventArgs e)
+        {
+            pogingenOver--;
+            int gok = Convert.ToInt32(TxtBoxRaden.Text);
+            BtnControleer.IsEnabled = true;
+            pogingenOver = 3;
+            Random rnd = new Random();
+            getal = rnd.Next(1, 10);
 
         }
     }
-}
+    }

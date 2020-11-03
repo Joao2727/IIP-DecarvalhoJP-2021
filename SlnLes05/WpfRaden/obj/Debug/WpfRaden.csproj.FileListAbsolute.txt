@@ -9,3 +9,9 @@ C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\Wp
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\obj\Debug\WpfRaden.csproj.GenerateResource.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\obj\Debug\WpfRaden.csproj.CoreCompileInputs.cache
 C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\obj\Debug\WpfRaden.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\bin\Debug\WpfRaden.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\bin\Debug\WpfRaden.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\bin\Debug\WpfRaden.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\obj\Debug\WpfRaden.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\obj\Debug\Window1.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfRaden\obj\Debug\Window1.baml
