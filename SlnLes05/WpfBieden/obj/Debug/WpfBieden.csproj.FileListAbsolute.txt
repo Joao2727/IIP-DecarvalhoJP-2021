@@ -1,0 +1,15 @@
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\bin\Debug\WpfBieden.exe.config
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\bin\Debug\WpfBieden.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\bin\Debug\WpfBieden.pdb
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden.csprojAssemblyReference.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\MainWindow.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\App.g.cs
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden_MarkupCompile.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden_MarkupCompile.lref
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\MainWindow.baml
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden.g.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden.Properties.Resources.resources
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden.csproj.GenerateResource.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden.csproj.CoreCompileInputs.cache
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden.exe
+C:\Users\joao-\OneDrive\Bureau\C#2021\joao1920\IIP-DecarvalhoJP-2021\SlnLes05\WpfBieden\obj\Debug\WpfBieden.pdb

@@ -20,14 +20,37 @@ namespace WpfBieden
     /// </summary>
     public partial class MainWindow : Window
     {
+        //GLOBALE VARIABLE
+        int Hoogstebod = 0;
+        string Hoogstebieder;
+
         public MainWindow()
         {
             InitializeComponent();
+
+            //Er is nog geen bod uitgebracht. 
+            Lblbiedingen.Content = " Er is nog geen bod uitgebracht."; 
         }
 
         private void BtnBod_Click(object sender, RoutedEventArgs e)
-        {
+        {   
+            int getal = Convert.ToInt32(TxtboxBod.Text); // conversie
 
+
+            if (getal > Hoogstebod) //ALS GETAL GROTER IS DAN DE HOOGSTE BOD.
+            {
+                //HOOGSTE BIEDER
+                Hoogstebod = getal;
+
+                Hoogstebieder = TxtboxNaam.Text;
+                Lblbiedingen.Content = ($" { Hoogstebieder } heeft met {getal}€ nu het hoogste bod!");
+            }
+            else
+            {
+
+                Lblbiedingen.Content = ($" Sorry, { Hoogstebieder} heeft momenteel het hoogste bod met {Hoogstebod}€ .");
+
+            }
         }
     }
 }
