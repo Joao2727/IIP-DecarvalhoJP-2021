@@ -43,7 +43,7 @@ namespace WpfBieden
                 Hoogstebod = getal;
 
                 Hoogstebieder = TxtboxNaam.Text;
-                Lblbiedingen.Content = ($" { Hoogstebieder } heeft met {getal}€ nu het hoogste bod!");
+                Lblbiedingen.Content = ($" { Hoogstebieder } heeft met {getal}€ nu het hoogste bod8");
             }
             else
             {
