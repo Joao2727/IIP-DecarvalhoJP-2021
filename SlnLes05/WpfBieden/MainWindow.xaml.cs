@@ -47,6 +47,7 @@ namespace WpfBieden
             }
             else
             { 
+                //
                 Lblbiedingen.Content = ($" Sorry, { Hoogstebieder} heeft momenteel het hoogste bod met {Hoogstebod}€ .");
 
             }
